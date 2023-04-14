@@ -2,7 +2,8 @@
 
 # **Real-time Detection of Personal-Protective-Equipment (PPE)**
 
-FORKED FROM pictor-ppe, added telegram reporting feature and slimmed down repo
+FORKED FROM pictor-ppe, added telegram reporting feature and slimmed down repo.
+PLEASE DOWNLOAD model-data folder from [This Link](https://drive.google.com/drive/folders/13zsh7tJ9LR4z9IzsVYF8Q1X1Iq515Cus?usp=share_link)
 
 <img src="extras/graphics/demo.gif" alt="Demo" width="840" align="middle"/>
 
